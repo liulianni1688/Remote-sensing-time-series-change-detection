@@ -8,9 +8,8 @@ This example is based on google earth engine, the requirements include:
 * matplotlib, seaborn  
 * networkx  
 * earthengine, geemap  
-* our lib:  MTS_GS_lib.cp37-win_amd64.pyd, please place it in the folder where the "main" file resides   
+* our lib:  MTS_GS_lib.cp37-win_amd64.pyd, please place it in the folder where the "main.ipynb" file resides   
   
-
-Note that: Parameter adjustment is not supported at this stage  
+After install the requirements, you can run the "main.ipynb" file to detect the block-based changes.  
   
-After install the requirements, you can run the "main" file to detect the block-based changes.
+Note that: Parameter adjustment is not supported now.   
