@@ -1,4 +1,4 @@
-# A Block-based change detection algorithm (MTS-GS. v1)
+# A Block-level change detection algorithm (MTS-GS. v1)
 ## Here is an Interactive example for Graph-based Segmentation for Multivariate Time Series algorithm (MTS-GS. v1)
 This example is based on google earth engine, the requirements include:  
 * python 3.7  
