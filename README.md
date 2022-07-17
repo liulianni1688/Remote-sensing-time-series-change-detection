@@ -13,3 +13,7 @@ This example is based on google earth engine, the requirements include:
 After install the requirements, you can run the "main.ipynb" file to detect the block-level changes.  
   
 Note that: Parameter adjustment is not supported in MTS-GS.v1
+
+
+Wang N, Li W, Tao R, et al. Graph-based block-level urban change detection using Sentinel-2 time series[J]. Remote Sensing of Environment, 2022, 274: 112993.
+Reflink: https://www.sciencedirect.com/science/article/abs/pii/S0034425722001079
